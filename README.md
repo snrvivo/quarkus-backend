@@ -9,6 +9,7 @@ The Post-It Application that is composed of:
 - an optionally deployed database
 
 ## Application Topology
+
 ![Application topology](topology.png "Application Topology")
 
 ## Deployment
